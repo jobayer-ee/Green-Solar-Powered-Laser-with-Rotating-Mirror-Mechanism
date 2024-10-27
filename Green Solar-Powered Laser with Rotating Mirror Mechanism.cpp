@@ -1,3 +1,9 @@
+/*
+Abdullah Al jobayer 
+Electrical & Electronic Engineer 
+Github - https://github.com/jobayer-ee 
+*/
+
 #include <Arduino.h>
 #include <ESP32Servo.h> 
 
